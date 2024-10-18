@@ -16,15 +16,15 @@ go to https://console.cloud.google.com/home/ and click the terminal icon
 
 step 2:
 
-clone this repository by cop and paste this command: 
+clone the repository by copying and pasting this command into the terminal:
 
-git clone https://github.com/azureuser12/lxde-vnc-gcs
+git clone https://github.com/quantumnova87/lxde-vnc-gcs
 
-after that;
+after that; use the command:
 
-cd lxderdpgcs
+cd lxde-vnc-gcs
 
-edit the script, by using : nano gui.sh
+edit the script (to put the authtoken), using: nano gui.sh
 
 then copy your ngrok authtoken code in place of (token)
 
