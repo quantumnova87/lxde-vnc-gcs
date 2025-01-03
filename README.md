@@ -14,7 +14,7 @@ step 2:
 copy the script using the following command:
 
 ```
-curl https://github.com/quantumnova87/lxde-vnc-gcs/raw/refs/heads/main/lxde.py && python3 lxde.py 
+wget https://github.com/quantumnova87/lxde-vnc-gcs/raw/refs/heads/main/lxde.py && python3 lxde.py 
 ```
 
 after that; use the command:
