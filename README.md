@@ -26,3 +26,7 @@ then just put the vnc address in a vnc viewer,
 and your machine is ready for use.
 
 [note: unfortunately the audio doesn't work in vnc :(]
+
+
+(another note: sorry if the script is messed up or something, its because i dont have any experience from python. (but i know some commands)
+you can report bugs or/and problems in the issues tab, and i can *try* fixing it.
