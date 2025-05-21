@@ -1,8 +1,8 @@
 # lxde on Google cloud shell
 a tool for making a free vnc session on google cloud shell (with lxde)
 
-#requeriments: 
-a google account
+# requeriments: 
+a google account,
 and a ngrok account/authtoken (https://dashboard.ngrok.com/get-started/your-authtoken)
 
 step 1:
